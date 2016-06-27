@@ -10,6 +10,11 @@ Slackのメッセージに対しReactionをつけることに特化したキー�
 4. `pip install slackclient`
 5. `python main.py`
 
+### ハードウェアの設計方法
+
+「SunPro会誌 2016 技術書典」内の記事「まだReactionで消耗してるの?」を御覧ください。  
+[300円でBOOTHにてダウンロード販売を行っています](https://sunpro.booth.pm/items/277203)。2016年12月25日からは無料で公開される予定です。
+
 ## 動作確認済み環境
 Python 3.4.3
 
